@@ -146,7 +146,7 @@ export function FlappyBirdShowcase({
         {/* 右侧：游戏预览 */}
         <div className="lg:col-span-7">
           <motion.div
-            className="mb-8 rounded-xl border bg-background shadow-lg"
+            className="sticky top-24 mb-8 rounded-xl border bg-background shadow-lg"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3 }}

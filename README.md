@@ -9,6 +9,8 @@ _✨ 基于 Next.js 15 打造的优雅、现代化作品集，精美设计与卓
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Deploy Status](https://therealsujitk-vercel-badge.vercel.app/?app=profile)](profile-puce-pi.vercel.app)
 
 </div>
 

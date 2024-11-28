@@ -24,7 +24,7 @@ export function Footer() {
 
         // 然后获取IP详细信息
         const infoResponse = await fetch(
-          `http://api.ipstack.com/${ip}?access_key=49b632060e1d7b54de432e005793dc59`
+          `https://api.ipstack.com/${ip}?access_key=49b632060e1d7b54de432e005793dc59`
         );
         const data = await infoResponse.json();
 

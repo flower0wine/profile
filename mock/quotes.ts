@@ -45,4 +45,20 @@ export const quotes: Quote[] = [
     author: "罗伯特·清崎",
     category: "富爸爸穷爸爸",
   },
+  {
+    content: "对待新技术，我们仅需知道它在什么时候能帮上我们即可",
+    author: "flowerwine",
+    category: "真理",
+  },
+  {
+    content: "一定要接触前沿知识，任何方面都要接触，这样你才能与众不同",
+    author: "flowerwine",
+    category: "真理",
+  },
+  {
+    content:
+      "找那些你感兴趣但薪资中等的工作去干，因为这样你才会思考如何赚钱，发现机遇",
+    author: "flowerwine",
+    category: "真理",
+  },
 ];

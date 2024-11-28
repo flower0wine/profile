@@ -20,7 +20,7 @@ export const huadiaoData: IHuadiaoWebsite = {
   description:
     "每一篇文章，都是灵魂的独白；每一次交流，都是心灵的共鸣。简洁而丰富，记录与连接编织出属于你的故事。",
   githubUrl: "https://github.com/flower0wine/huadiao-frontend",
-  demoUrl: "https://flowerwine.xyz", // 替换为实际的演示地址
+  demoUrl: "http://114.55.41.107", // 替换为实际的演示地址
   techStack: [
     "Vue.js",
     "Spring Boot",

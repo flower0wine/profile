@@ -108,7 +108,7 @@ docker-compose down
 
 ```bash
 # 构建镜像
-docker build -network host -t profile .
+docker build --network host -t profile .
 
 # 运行容器
 docker run -p 3000:3000 --name profile

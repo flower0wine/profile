@@ -68,7 +68,7 @@ export function HeroSection() {
               )}
             ></div>
             <Image
-              src="/images/avatar.png"
+              src="/images/avatar.jpg"
               alt="flowerwine"
               fill
               sizes="8rem"
